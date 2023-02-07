@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\bin\Debug\net6.0\ex58.exe
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\bin\Debug\net6.0\ex58.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\bin\Debug\net6.0\ex58.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\bin\Debug\net6.0\ex58.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\bin\Debug\net6.0\ex58.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\refint\ex58.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ex58.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex58\obj\Debug\net6.0\ref\ex58.dll
