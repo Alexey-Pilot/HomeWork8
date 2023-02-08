@@ -1,0 +1,15 @@
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\bin\Debug\net6.0\ex54.exe
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\bin\Debug\net6.0\ex54.deps.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\bin\Debug\net6.0\ex54.runtimeconfig.json
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\bin\Debug\net6.0\ex54.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\bin\Debug\net6.0\ex54.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.csproj.AssemblyReference.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.AssemblyInfoInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.AssemblyInfo.cs
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.csproj.CoreCompileInputs.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\refint\ex54.dll
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.pdb
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ex54.genruntimeconfig.cache
+C:\Users\alexr\OneDrive\Рабочий стол\HomeWork8\HomeWork8\ex54\obj\Debug\net6.0\ref\ex54.dll
